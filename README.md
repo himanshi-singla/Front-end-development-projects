@@ -1,2 +1,2 @@
 # Front-end-development-projects
-All the projects I make as I learn front end development.
+All the projects I make as I learn front end web development.
